@@ -1,0 +1,74 @@
+H1 {color: goldenrod}
+
+blockquote {
+    margin: 0;
+}
+blockquote p {
+    padding: 15px;
+    background:#eee;
+    border-radius: 5px;
+}
+body {
+    margin: 50px;
+}
+body p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px ;
+}
+body li {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-stretch: expanded;
+    color: #50340f;
+    padding: 10px 5px 0px 3px ;
+}
+
+figcaption {
+    font-style: italic;
+    font- ;
+    padding: 3px 0px 0px 6px;
+}
+
+table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid #714A18;
+    background-color: #EEE3C2;
+    width: 80%;
+    height: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  table td, table th {
+    border: 2px solid #AA946D;
+    padding: 8px 3px 7px 10px;
+  }
+  table td {
+    font-size: 15px;
+  }
+  table th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #714A18;
+    text-align: center;
+    padding-left: 0px;
+    background: #DAA75D;
+    background: linear-gradient(to bottom, #e3bd85 0%, #ddaf6d 66%, #DAA75D 100%);
+    border-bottom: 3px solid #444444;
+
+    border: 2px solid #655134;
+  }
+
+table caption {
+    caption-side: bottom;
+    font-style: italic;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+}
+.copyright {
+    font-size: smaller;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
