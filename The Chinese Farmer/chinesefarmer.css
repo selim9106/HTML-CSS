@@ -48,7 +48,7 @@ body {
     margin: 50px;
     max-width: 90%;
     /*background-color: linear-gradient(139deg, rgb(255, 234, 171), rgba(133, 92, 14, 0.71));*/
-    background-image: url(asian-farmer-straw-conical-hat-asia-rural-culture-chinese-farmer-carrying-yields-rice-harvest-his-shoulders-vector-cartoon-illustration_87946-2521.jpg);
+    background-image: url(images/asian-farmer-straw-conical-hat-asia-rural-culture-chinese-farmer-carrying-yields-rice-harvest-his-shoulders-vector-cartoon-illustration_87946-2521.jpg);
     background-repeat: no-repeat;
     background-size: 60%;
     background-position: bottom right;
@@ -77,21 +77,21 @@ li {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 li:first-child {
-    background-image: url(bien.png);
+    background-image: url(images/bien.png);
     background-repeat: no-repeat;
     background-size: 1.4em ;
     background-position: center left 285px;
 }
 
 li:nth-child(2) {
-    background-image: url(mal.png);
+    background-image: url(images/mal.png);
     background-repeat: no-repeat;
     background-size: 1.4em ;
     background-position: center left 285px;
 }
 
 li:nth-child(3) {
-    background-image: url(chat.png);
+    background-image: url(images/chat.png);
     background-repeat: no-repeat;
     background-size: 1.4em ;
     background-position: center left 285px;
