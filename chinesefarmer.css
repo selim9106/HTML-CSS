@@ -19,6 +19,9 @@ blockquote p {
     font-style: italic;
 }
 
+.author {
+    font-style: italic;
+}
 .villagers {
     font-style: italic;
     font-size: 120%;
@@ -28,7 +31,6 @@ blockquote p {
     content: "\0022";
     font-size: 1.2em;
     font-weight: bold;
-    vertical-align: ;
     color: #DAA75D;
 }
 
@@ -40,7 +42,6 @@ blockquote p {
     content: "\0022";
     font-size: 1.2em;
     font-weight: bold;
-    vertical-align: ;
     color: #b96623;
 }
 body {
@@ -105,7 +106,6 @@ h2 {
 
 figcaption {
     font-style: italic;
-    font- ;
     padding: 3px 0px 0px 6px;
 }
 
